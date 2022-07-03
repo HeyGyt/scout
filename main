@@ -257,4 +257,4 @@ end
 if ANIMATIONHERE then ANIMATIONHERE.Parent = CloneChar end
 
 -- Scout
-loadstring(game:HttpGet(('https://pastebin.com/raw/uUbCANas'),true))()
+loadstring(game:HttpGet(('https://pastebin.com/raw/qP2M8ZV5'),true))()
